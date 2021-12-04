@@ -1,7 +1,0 @@
-{
-  "name": "ToDo",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "angular"
-}
